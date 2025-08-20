@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Mangal 6 kishilik",
+    "price": "380.000",
+    "image": "/images/mangal.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Sardelka assorti",
+    "price": "120.000",
+    "image": "/images/sardelkaassorti.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "Shashlik jaz (qo'y go'shti)",
+    "price": "27.000",
+    "image": "/images/shashlik.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Shashlik jaz (mol go'shti)",
+    "price": "25.000",
+    "image": "/images/shashlikmol.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Shashlik qiyma (mol go'shti)",
+    "price": "22.000",
+    "image": "/images/qiymashashlik.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Shashlik napaleon",
+    "price": "30.000",
+    "image": "/images/napaleonshashlik.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Rulet shashlik",
+    "price": "30.000",
+    "image": "/images/ruletshashlik.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Koreyka shashlik (qo'y go'shti)",
+    "price": "50.000",
+    "image": "/images/koreykashashlik.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Shashlik tovuq qanotcha",
+    "price": "20.000",
+    "image": "/images/tovuqqanotchashashlik.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Stek T-bon kg",
+    "price": "330.000",
+    "image": "/images/tbonstake.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Shashlik semechka (qo'sh go'shti)",
+    "price": "28.000",
+    "image": "/images/shashliksemechka.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Kotlet (sirli)",
+    "price": "34.000",
+    "image": "/images/kotletsirli.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Ilik (200gr)",
+    "price": "15.000",
+    "image": "/images/ilik.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Kartoshka shashlik",
+    "price": "10.000",
+    "image": "/images/kartoshkashashlik.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Dumba shashlik",
+    "price": "24.000",
+    "image": "/images/dumba.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Kavkazskiy shashlik",
+    "price": "50.000",
+    "image": "/images/kavkazskiy.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Tandir shashlik",
+    "price": "60.000",
+    "image": "/images/tandirshashlik.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Pomidor shashlik",
+    "price": "10.000",
+    "image": "/images/pomidorshashlik.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Jigar shashlik",
+    "price": "22.000",
+    "image": "/images/jigarshashlik.jpeg"
+  },
+  {
+    "id": 18,
+    "title": "Stek Rebey kg",
+    "price": "330.000",
+    "image": "/images/stekrebay.jpg"
+  },
+  {
+    "id": 19,
+    "title": "pusStek Newyork kg",
+    "price": "350.000",
+    "image": "/images/steknewyork.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Stek Dalis kg",
+    "price": "350.000",
+    "image": "/images/stekdallas.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Shashlik tovuq bedro",
+    "price": "20.000",
+    "image": "/images/bedroshashlik.jpeg"
+  },
+  {
+    "id": 22,
+    "title": "Kolbaski barbecue (4dona)",
+    "price": "60.000",
+    "image": "/images/kolbaskibarbecue.jpg"
+  }
+]

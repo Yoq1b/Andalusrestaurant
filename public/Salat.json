@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Svejiy salat",
+    "price": "15.000",
+    "image": "/images/svejiy.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mujskoy kapriz",
+    "price": "35.000",
+    "image": "/images/mujskoykabriz.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sezar salat",
+    "price": "35.000",
+    "image": "/images/sezar.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Majnuntol",
+    "price": "35.000",
+    "image": "/images/majnuntol.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fri Kartoshka 100gr",
+    "price": "12.000",
+    "image": "/images/fri.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Xrustyashiy baqlajon",
+    "price": "40.000",
+    "image": "/images/xrustyashibaqlajon.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Zelen assorti",
+    "price": "30.000",
+    "image": "/images/zelenassorti.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Ovoshi assorti",
+    "price": "35.000",
+    "image": "/images/ovoshiassorti.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cho'ponchi salat",
+    "price": "28.000",
+    "image": "/images/choponchasalat.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Marinovanniy assorti",
+    "price": "30.000",
+    "image": "/images/marinovanniyassorti.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fransuzkiy salat",
+    "price": "35.000",
+    "image": "/images/fransuzkiy.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Olivie",
+    "price": "35.000",
+    "image": "/images/olivie.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Vinegred salat",
+    "price": "35.000",
+    "image": "/images/vinegret.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Smak salat",
+    "price": "30.000",
+    "image": "/images/smak.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Soyaviy salat",
+    "price": "35.000",
+    "image": "/images/soyaviy.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Gribi salat",
+    "price": "35.000",
+    "image": "/images/gribi.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Nejniy salat",
+    "price": "35.000",
+    "image": "/images/nejniy.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Kefir stakan",
+    "price": "6.000",
+    "image": "/images/kefir.jpg"
+  }
+]

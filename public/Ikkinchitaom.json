@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Osh",
+    "price": "35.000",
+    "image": "/images/osh.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Tabaka kg",
+    "price": "60.000",
+    "image": "/images/tovuq.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Qovurma lag'mon",
+    "price": "35.000",
+    "image": "/images/qovurmalagmon.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Qozon kabob (kg)",
+    "price": "230.000",
+    "image": "/images/qozonkabob.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Jiz qo'y (kg)",
+    "price": "250.000",
+    "image": "/images/chupchima.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Jiz mol (kg)",
+    "price": "220.000",
+    "image": "/images/jizmol.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Dimlama (mol go'shti)",
+    "price": "40.000",
+    "image": "/images/dimlama.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Grudinka",
+    "price": "40.000",
+    "image": "/images/grudinka.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chupchima (kg)",
+    "price": "300.000",
+    "image": "/images/chopchima.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Vaguri (qo'sh go'shti) kg",
+    "price": "240.000",
+    "image": "/images/vaguri.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Krilishka duxovka (kg)",
+    "price": "70.000",
+    "image": "/images/krilishka.jpg"
+  }
+]
