@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Cola (0.5L) (1L) (1.5L)",
+    "price": "9.000 12.000 15.000",
+    "image": "/images/cola.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Fanta (0.5L) (1L) (1.5L)",
+    "price": "9.000 12.000 15.000",
+    "image": "/images/fanta.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Chernogolovka (0.5L) (1L) (1.5L)",
+    "price": "9.000 12.000 15.000",
+    "image": "/images/chernogolovka.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Milliy cola",
+    "price": "8.000 12.000 15.000",
+    "image": "/images/milliykola.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Pepsi (0.5L) (1L) (1.5L)",
+    "price": "9.000 12.000 15.000",
+    "image": "/images/pepsi.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Chortoq (0.5L) (0.7L)",
+    "price": "12.000 15.000",
+    "image": "/images/chortoq.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fuse tea 1L",
+    "price": "12.000",
+    "image": "/images/fusetea.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bonaqua gazsiz 0.5L",
+    "price": "8.000",
+    "image": "/images/bonaqua.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Limon choy",
+    "price": "10.000",
+    "image": "/images/limonchoy.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Imbir choy",
+    "price": "25.000",
+    "image": "/images/imbir.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Malina choy",
+    "price": "20.000",
+    "image": "/images/malinachoy.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Mevali choy",
+    "price": "25.000",
+    "image": "/images/mevalichoy.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Moxito olmali",
+    "price": "35.000",
+    "image": "/images/moxitoolma.jpg"
+  }
+]

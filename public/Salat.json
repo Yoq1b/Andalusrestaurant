@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Svejiy salat",
+    "price": "15.000",
+    "image": "/images/svejiy.JPG"
+  },
+  {
+    "id": 2,
+    "title": "Chiroqchi salat",
+    "price": "20.000",
+    "image": "/images/chiroqchi.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Smak salat",
+    "price": "30.000",
+    "image": "/images/smak.JPG"
+  },
+  {
+    "id": 4,
+    "title": "Mujskoy kapriz",
+    "price": "35.000",
+    "image": "/images/mujskoy.JPG"
+  },
+  {
+    "id": 5,
+    "title": "Gribi salat",
+    "price": "30.000",
+    "image": "/images/gribi.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Andalus salat",
+    "price": "40.000",
+    "image": "/images/andalussalat.JPG"
+  },
+  {
+    "id": 7,
+    "title": "Majnuntol salat",
+    "price": "35.000",
+    "image": "/images/majnuntol.JPG"
+  },
+  {
+    "id": 8,
+    "title": "Xrustyashiy baqlajon",
+    "price": "30.000",
+    "image": "/images/xrustyashiy.JPG"
+  },
+  {
+    "id": 9,
+    "title": "Oliviye salat",
+    "price": "30.000",
+    "image": "/images/oliviya.JPG"
+  },
+  {
+    "id": 10,
+    "title": "Nejniy salat",
+    "price": "35.000",
+    "image": "/images/nejniy.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Grecheskiy salat",
+    "price": "35.000",
+    "image": "/images/grecheskiy.JPG"
+  },
+  {
+    "id": 12,
+    "title": "Yaponskiy salat",
+    "price": "30.000",
+    "image": "/images/yaponskiy.JPG"
+  },
+  {
+    "id": 13,
+    "title": "Andalus maselniy",
+    "price": "38.000",
+    "image": "/images/andalusmayanezsiz.JPG"
+  },
+  {
+    "id": 14,
+    "title": "Sezar salat",
+    "price": "35.000",
+    "image": "/images/sezarsalat.JPG"
+  },
+  {
+    "id": 15,
+    "title": "Zelen assorti",
+    "price": "25.000",
+    "image": "/images/zelenassorti.JPG"
+  },
+  {
+    "id": 16,
+    "title": "Solyonniy assorti",
+    "price": "20.000",
+    "image": "/images/solyonniyassorti.JPG"
+  },
+  {
+    "id": 17,
+    "title": "Solyonniy salat",
+    "price": "15.000",
+    "image": "/images/solyonniyoddiy.JPG"
+  },
+  {
+    "id": 18,
+    "title": "Ko'za qatiq",
+    "price": "8.000",
+    "image": "/images/kozaqatiq.JPG"
+  }
+]

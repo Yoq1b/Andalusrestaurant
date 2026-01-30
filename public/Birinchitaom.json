@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Shi zelyonniy",
+    "price": "30.000",
+    "image": "/images/shi.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mastava",
+    "price": "25.000",
+    "image": "/images/mastava.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Borsh",
+    "price": "30.000",
+    "image": "/images/borsh.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Chuchvara sho'rva",
+    "price": "25.000",
+    "image": "/images/chuchvarashorva.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dimlama",
+    "price": "30.000",
+    "image": "/images/dimlama.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Andalus",
+    "price": "50.000",
+    "image": "/images/andalusovqat.JPG"
+  },
+  {
+    "id": 7,
+    "title": "Tushonka",
+    "price": "40.000",
+    "image": "/images/tushonka.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Qaynatma sho'rva qo'y",
+    "price": "35.000",
+    "image": "/images/qaynatmashorvaqoy.jpg"
+  }
+]

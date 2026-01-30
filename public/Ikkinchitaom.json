@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Osh",
+    "price": "40.000",
+    "image": "/images/osh.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Qozon kabob 1kg",
+    "price": "230.000",
+    "image": "/images/qozonkabob.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Jiz qo'y 1kg",
+    "price": "220.000",
+    "image": "/images/jiz.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cho'pchima 1kg",
+    "price": "260.000",
+    "image": "/images/chopchima.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Beshbarmoq",
+    "price": "55.000",
+    "image": "/images/beshbarmoq.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Baliq 1kg",
+    "price": "85.000",
+    "image": "/images/baliq.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Vaguri 1kg",
+    "price": "240.000",
+    "image": "/images/vaguri.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Kakandskaya somsa",
+    "price": "10.000",
+    "image": "/images/kakandskayasamsa.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Tabaka 1kg",
+    "price": "60.000",
+    "image": "/images/tovuq.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Payshanba somsa",
+    "price": "15.000",
+    "image": "/images/somsa.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Iskandar kabob",
+    "price": "50.000",
+    "image": "/images/iskandar.JPG"
+  },
+  {
+    "id": 1,
+    "title": "Andalus burger",
+    "price": "55.000",
+    "image": "/images/burger.JPG"
+  }
+]

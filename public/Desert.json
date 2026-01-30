@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Meva assorti",
+    "price": "140.000",
+    "image": "/images/mevaassorti.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cheesecake",
+    "price": "20.000",
+    "image": "/images/cheesecake.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Katmer",
+    "price": "80.000",
+    "image": "/images/smitkatmer.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Simit katmer",
+    "price": "90.000",
+    "image": "/images/dolama.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Do'lama katmer",
+    "price": "90.000",
+    "image": "/images/katmer.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Medoviy tort",
+    "price": "15.000",
+    "image": "/images/medoviy.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Matilda tort",
+    "price": "15.000",
+    "image": "/images/matilda.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Mini cheescake",
+    "price": "18.000",
+    "image": "/images/minicheeskake.jpg"
+  }
+]
