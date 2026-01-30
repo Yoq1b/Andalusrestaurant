@@ -2,6 +2,32 @@ import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../css/animation.css";
 
+/* 🔄 Rasm loader component — global foydalanish uchun */
+const ImageWithLoader = ({ src, alt, className }) => {
+  const [loaded, setLoaded] = useState(false);
+
+  return (
+    <div className={`relative w-full h-full overflow-hidden ${className}`}>
+      {!loaded && (
+        <div className="absolute inset-0 flex items-center justify-center bg-white">
+          <div className="w-8 h-8 border-4 border-gray-300 border-t-green-500 rounded-full animate-spin"></div>
+        </div>
+      )}
+
+      <img
+        src={src}
+        alt={alt}
+        loading="lazy"
+        decoding="async"
+        onLoad={() => setLoaded(true)}
+        className={`w-full h-full object-cover transition-opacity duration-500 ${
+          loaded ? "opacity-100" : "opacity-0"
+        }`}
+      />
+    </div>
+  );
+};
+
 const Mangal = () => {
   const [taomlar, setTaomlar] = useState([]);
   const navigate = useNavigate();
@@ -76,11 +102,8 @@ const Mangal = () => {
             "
           >
             <div className="w-full h-full overflow-hidden">
-              <img
-                src={item.image}
-                alt={item.title}
-                className="w-full h-full object-cover"
-              />
+              {/* 🟢 Loader qo‘shildi */}
+              <ImageWithLoader src={item.image} alt={item.title} />
             </div>
 
             <div className="text-center aspect-[6/1]">

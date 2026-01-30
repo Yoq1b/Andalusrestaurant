@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Milliy from "../assets/milliy.png";
 import Fast from "../assets/fast.jpg";
@@ -6,6 +6,32 @@ import Mangal from "../assets/mangal.jpg";
 import Desert from "../assets/desert.png";
 import Drink from "../assets/drink.jpg";
 import Salat from "../assets/salat.jpg";
+
+/* 🔄 Rasm loader component */
+const ImageWithLoader = ({ src, className }) => {
+  const [loaded, setLoaded] = useState(false);
+
+  return (
+    <div className={`relative w-full h-full overflow-hidden ${className}`}>
+      {!loaded && (
+        <div className="absolute inset-0 flex items-center justify-center bg-black/30">
+          <div className="w-10 h-10 border-4 border-gray-300 border-t-green-500 rounded-full animate-spin"></div>
+        </div>
+      )}
+
+      <img
+        src={src}
+        alt=""
+        loading="lazy"
+        decoding="async"
+        onLoad={() => setLoaded(true)}
+        className={`w-full h-full object-cover transition-opacity duration-500 ${
+          loaded ? "opacity-100" : "opacity-0"
+        }`}
+      />
+    </div>
+  );
+};
 
 const Home = () => {
   const navigate = useNavigate();
@@ -58,19 +84,13 @@ const MenuCard = ({ to, bg, title }) => {
   return (
     <Link
       to={to}
-      className="
-        w-full
-        h-full
-        rounded-[22px]
-        bg-cover
-        bg-center
-        flex
-        items-center
-        justify-center
-        border"
-      style={{ backgroundImage: `url(${bg})` }}
+      className="w-full h-full rounded-[22px] flex items-center justify-center border overflow-hidden relative"
     >
-      <div className="px-3 py-2 bg-black/50 rounded-[14px]">
+      {/* 🟢 Loader bilan rasm */}
+      <ImageWithLoader src={bg} className="absolute inset-0" />
+
+      {/* Text overlay */}
+      <div className="px-3 py-2 bg-black/50 rounded-[14px] z-10 relative">
         <p className="text-white font-lora font-semibold text-[clamp(14px,3.5vw,22px)] text-center">
           {title}
         </p>

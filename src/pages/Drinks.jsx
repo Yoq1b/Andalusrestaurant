@@ -2,6 +2,32 @@ import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../css/animation.css";
 
+/* 🔄 Rasm uchun loader component */
+const ImageWithLoader = ({ src, alt }) => {
+  const [loaded, setLoaded] = useState(false);
+
+  return (
+    <div className="relative w-full h-full overflow-hidden">
+      {!loaded && (
+        <div className="absolute inset-0 flex items-center justify-center bg-white">
+          <div className="w-8 h-8 border-4 border-gray-300 border-t-green-500 rounded-full animate-spin"></div>
+        </div>
+      )}
+
+      <img
+        src={src}
+        alt={alt}
+        loading="lazy"
+        decoding="async"
+        onLoad={() => setLoaded(true)}
+        className={`w-full h-full object-cover transition-opacity duration-500 ${
+          loaded ? "opacity-100" : "opacity-0"
+        }`}
+      />
+    </div>
+  );
+};
+
 const Milliy = () => {
   const [taomlar, setTaomlar] = useState([]);
   const navigate = useNavigate();
@@ -43,7 +69,6 @@ const Milliy = () => {
         Salqin ichimliklar
       </p>
 
-      {/* 📌 pb navbar balandligiga moslashtirildi */}
       <div
         className="
           bg-black
@@ -77,11 +102,8 @@ const Milliy = () => {
             "
           >
             <div className="w-full h-full overflow-hidden">
-              <img
-                src={item.image}
-                alt={item.title}
-                className="w-full h-full object-cover"
-              />
+              {/* 🟢 Loader qo‘shilgan joy */}
+              <ImageWithLoader src={item.image} alt={item.title} />
             </div>
 
             <div className="text-center aspect-[6/1]">
