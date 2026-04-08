@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Svejiy salat",
-    "price": "15.000",
+    "price": "18.000",
     "image": "/images/svejiy.JPG"
   },
   {
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "title": "Andalus salat",
-    "price": "40.000",
+    "price": "38.000",
     "image": "/images/andalussalat.JPG"
   },
   {
@@ -68,7 +68,7 @@
   {
     "id": 12,
     "title": "Yaponskiy salat",
-    "price": "30.000",
+    "price": "28.000",
     "image": "/images/yaponskiy.JPG"
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": 14,
     "title": "Sezar salat",
-    "price": "35.000",
+    "price": "30.000",
     "image": "/images/sezarsalat.JPG"
   },
   {
@@ -106,5 +106,17 @@
     "title": "Ko'za qatiq",
     "price": "8.000",
     "image": "/images/kozaqatiq.JPG"
+  },
+  {
+    "id": 18,
+    "title": "Chalop (grafin)",
+    "price": "15.000",
+    "image": "/images/chalop.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Suzma",
+    "price": "12.000",
+    "image": "/images/chakka.jpg"
   }
 ]

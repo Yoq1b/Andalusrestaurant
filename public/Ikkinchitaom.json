@@ -14,8 +14,26 @@
   {
     "id": 3,
     "title": "Jiz qo'y 1kg",
-    "price": "220.000",
+    "price": "210.000",
     "image": "/images/jiz.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Jiz mol 1kg",
+    "price": "220.000",
+    "image": "/images/jizmol.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Umakay jiz 1kg",
+    "price": "250.000",
+    "image": "/images/umakay.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Andalus steyk 1kg",
+    "price": "300.000",
+    "image": "/images/virozkasteyk.jpg"
   },
   {
     "id": 4,
@@ -38,20 +56,26 @@
   {
     "id": 1,
     "title": "Vaguri 1kg",
-    "price": "240.000",
+    "price": "220.000",
     "image": "/images/vaguri.jpg"
   },
   {
     "id": 1,
     "title": "Kakandskaya somsa",
-    "price": "10.000",
+    "price": "11.000",
     "image": "/images/kakandskayasamsa.jpg"
   },
   {
     "id": 1,
     "title": "Tabaka 1kg",
-    "price": "60.000",
+    "price": "65.000",
     "image": "/images/tovuq.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Qovurma lag'mon",
+    "price": "30.000",
+    "image": "/images/qovurmalagmon.jpg"
   },
   {
     "id": 1,

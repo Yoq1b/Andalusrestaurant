@@ -8,7 +8,7 @@
   {
     "id": 2,
     "title": "Mastava",
-    "price": "25.000",
+    "price": "30.000",
     "image": "/images/mastava.jpg"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 5,
     "title": "Dimlama",
-    "price": "30.000",
+    "price": "35.000",
     "image": "/images/dimlama.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": 7,
     "title": "Tushonka",
-    "price": "40.000",
+    "price": "38.000",
     "image": "/images/tushonka.jpg"
   },
   {
@@ -46,5 +46,11 @@
     "title": "Qaynatma sho'rva qo'y",
     "price": "35.000",
     "image": "/images/qaynatmashorvaqoy.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Go'ja",
+    "price": "25.000",
+    "image": "/images/goja.jpg"
   }
 ]

@@ -25,6 +25,12 @@
   },
   {
     "id": 1,
+    "title": "Shashlik jaz qo'y",
+    "price": "28.000",
+    "image": "/images/qoyjaz.jpg"
+  },
+  {
+    "id": 1,
     "title": "Shashlik qiyma",
     "price": "22.000",
     "image": "/images/qiymashashlik.jpg"
@@ -92,7 +98,7 @@
   {
     "id": 1,
     "title": "Barbekyu mangal",
-    "price": "22.000",
+    "price": "16.000",
     "image": "/images/barbekyu.JPG"
   },
   {
@@ -139,8 +145,26 @@
   },
   {
     "id": 1,
+    "title": "Medalyon",
+    "price": "32.000",
+    "image": "/images/medalyon.png"
+  },
+  {
+    "id": 1,
     "title": "Chebureki",
     "price": "28.000",
     "image": "/images/chebureki.JPG"
+  },
+  {
+    "id": 1,
+    "title": "Gribi shashlik",
+    "price": "154.000",
+    "image": "/images/qoziqorin.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Ilik (dona)",
+    "price": "22.000",
+    "image": "/images/ilik.jpg"
   }
 ]
