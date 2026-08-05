@@ -26,7 +26,7 @@
   {
     "id": 5,
     "title": "Dimlama",
-    "price": "35.000",
+    "price": "38.000",
     "image": "/images/dimlama.jpg"
   },
   {
@@ -38,13 +38,13 @@
   {
     "id": 7,
     "title": "Tushonka",
-    "price": "38.000",
+    "price": "42.000",
     "image": "/images/tushonka.jpg"
   },
   {
     "id": 8,
     "title": "Qaynatma sho'rva qo'y",
-    "price": "35.000",
+    "price": "38.000",
     "image": "/images/qaynatmashorvaqoy.jpg"
   },
   {
